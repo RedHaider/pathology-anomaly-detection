@@ -1,0 +1,1 @@
+"""Synthetic pathology anomaly benchmark."""
